@@ -1,3 +1,7 @@
-.col {
+body {
+    margin:10px;
+}
+.local {
     background-color: yellow;
+    border: 1px solid green;
 }
